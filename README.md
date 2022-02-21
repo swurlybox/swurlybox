@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @swurlybox
-- 👀 I’m interested in ... excercising, gaming, and most importantly; CODING!
+- 👀 I’m interested in ... exercise, gaming, and CODING!
 - 🌱 I’m currently learning ... JavaScript and Java programming language.
 - 💞️ I’m looking to collaborate on ... Nothing at the moment.
 - 📫 How to reach me ... Email: ewu8@sfsu.edu
