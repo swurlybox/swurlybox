@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @swurlybox
-- 👀 I’m interested in ... exercise, gaming, and CODING!
-- 🌱 I’m currently learning ... JavaScript and Java programming language.
-- 💞️ I’m looking to collaborate on ... Nothing at the moment.
+- 👋 Sup yall, I’m @swurlybox
+- 👀 Stuff that I'm currently interested in ... fighting games, personal fitness, and programming.
+- 🌱 I’m currently learning ... more about the diverse topics of computer science, both practice and theory.
+- 💞️ I’m looking to collaborate on ... nothing at the moment, just working on solo projects and coding for fun.
 - 📫 How to reach me ... Email: ewu8@sfsu.edu
 
 <!---
