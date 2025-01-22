@@ -1,7 +1,5 @@
-- 👋 Sup yall, I’m @swurlybox
-- 👀 Stuff that I'm currently interested in ... fighting games, personal fitness, and programming.
-- 🌱 I’m currently learning ... more about the diverse topics of computer science, both practice and theory.
-- 💞️ I’m looking to collaborate on ... nothing at the moment, just working on solo projects and coding for fun.
+Just a chill guy interested in computer science and applied mathematics.
+
 - 📫 How to reach me ... Email: ewu8@sfsu.edu
 
 <!---
