@@ -1,4 +1,5 @@
-Just a chill guy interested in computer science and applied mathematics.
+Just a chill guy interested in computer science, applied mathematics, and embedded!
+Here you'll find a collection of repositories ranging from simple programs to complex projects.
 
 - 📫 How to reach me ... Email: wuedwin03@gmail.com
 
